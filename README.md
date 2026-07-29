@@ -8,7 +8,7 @@
 
 # Hey there, I'm **Ronith Promy** 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=#FF0000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Undergraduate;IoT+%7C+Embedded+Systems+Developer;RAG+%7C+LangChain+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Multi-Modal+Systems;Vajra+Hackathon+1st+Prize+Winner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=#38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+ML+Undergraduate;IoT+%7C+Embedded+Systems+Developer;RAG+%7C+LangChain+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Multi-Modal+Systems;Vajra+Hackathon+1st+Prize+Winner"/>
 
 <br>
 
