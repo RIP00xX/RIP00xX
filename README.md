@@ -8,13 +8,13 @@
 
 # Hey there, I'm **Ronith Promy** 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;IoT+%7C+Embedded+Systems+Developer;RAG+%7C+LangChain+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Multi-Modal+Systems;Vajra+Hackathon+1st+Prize+Winner"/> <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=EF4444&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;IoT+%7C+Embedded+Systems+Developer;RAG+%7C+LangChain+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Multi-Modal+Systems;Vajra+Hackathon+1st+Prize+Winner"/> <br>
 
 <br>
 
-![](https://img.shields.io/github/followers/RIP00xX?style=for-the-badge&logo=github&color=38BDF8&labelColor=0D1117)
-![](https://img.shields.io/github/stars/RIP00xX?affiliations=OWNER&style=for-the-badge&logo=github&color=22D3EE&labelColor=0D1117)
-![](https://komarev.com/ghpvc/?username=RIP00xX&style=for-the-badge&color=7DD3FC)
+![](https://img.shields.io/github/followers/RIP00xX?style=for-the-badge&logo=github&color=EF4444&labelColor=1A0000)
+![](https://img.shields.io/github/stars/RIP00xX?affiliations=OWNER&style=for-the-badge&logo=github&color=DC2626&labelColor=1A0000)
+![](https://komarev.com/ghpvc/?username=RIP00xX&style=for-the-badge&color=FCA5A5)
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RIP00xX&theme=transparent&hide_border=true&ring=38BDF8&fire=22D3EE&currStreakLabel=7DD3FC&currStreakNum=38BDF8"/>
+<img src="https://streak-stats.demolab.com?user=RIP00xX&theme=transparent&hide_border=true&ring=EF4444&fire=DC2626&currStreakLabel=FCA5A5&currStreakNum=EF4444"/>
 
 </div>
 
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIP00xX&bg_color=00000000&color=7DD3FC&line=38BDF8&point=22D3EE&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIP00xX&bg_color=00000000&color=FCA5A5&line=EF4444&point=DC2626&area=true&hide_border=true"/>
 
 </div>
 
@@ -125,15 +125,15 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/RIP00xX" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:ronithpromy00@gmail.com">
-<img src="https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FCA5A5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -153,8 +153,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:38BDF8,50:22D3EE,100:7DD3FC"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:7DD3FC,50:38BDF8,100:22D3EE"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:EF4444,50:DC2626,100:FCA5A5"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FCA5A5,50:EF4444,100:DC2626"/>
 </picture>
 
 </div>
