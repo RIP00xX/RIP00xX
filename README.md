@@ -4,7 +4,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:EF4444,100:FCA5A5&height=220&section=header&text=Ronith%20Promy&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%2B%20ML%20Engineer%20%7C%20IoT%20/%20Embedded%20Systems&descAlignY=58&descSize=18"/>
+<img src=".github/profile_banner.png" width="100%" alt="Ronith Promy Banner">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:EF4444,100:FCA5A5&height=100&section=header&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=EF4444&center=true&vCenter=true&width=650&lines=Building+Intelligent+Multi-Modal+Systems;RAG+%7C+LangChain+%7C+TensorFlow+%7C+PyTorch;IoT+%7C+ESP32+%7C+Embedded+Firmware;Vajra+Hackathon+1st+Prize+Winner"/>
 
